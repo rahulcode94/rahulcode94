@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul
 
-<!--
-**rahulcode94/rahulcode94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+Building web applications with React, Node.js, Express & MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Node.js
+- 💻 Building full-stack web applications
+- ⚛️ Learning React and backend development
+- 🔗 Interested in Blockchain & Web3
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+  
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
